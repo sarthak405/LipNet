@@ -1,0 +1,7 @@
+streamlit
+imageio==2.23.0
+opencv-python
+tensorflow
+protobuf==3.20
+gdown
+matplotlib
