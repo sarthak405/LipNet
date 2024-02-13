@@ -9,6 +9,7 @@ Keras implementation of the method described in the paper 'LipNet: End-to-End Se
 - Activate conda env: `conda activate lipnet`
 - Install requirements: `pip install -r requirements.txt`
 - Install ipykernel package: `conda install ipykernel --update-deps --force-reinstall`
+- Install ffmpeg: `conda install -c conda-forge ffmpeg`
 
 
 ### Execution of Jupyter Notebook
